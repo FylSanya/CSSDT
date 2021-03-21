@@ -1,0 +1,2 @@
+String 1: Banan
+String 2: Baan
